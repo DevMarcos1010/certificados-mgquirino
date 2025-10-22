@@ -19,7 +19,7 @@
 🧩 *Foco em fundamentos de segurança, frameworks, regulamentos e procedimentos para Segurança da Informação.*
 
 ---
-## 💻 3. Programação e Automação
+## 💻 3. Programação 
 
 | Certificação / Curso | Instituição | Carga Horária | Status |
 |----------------------|-------------|----------------|--------|
